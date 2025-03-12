@@ -1,3 +1,3 @@
 # RepasoRecu
 Jose Vicente
-Alumno
+Alumnogran persona
