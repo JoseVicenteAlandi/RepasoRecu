@@ -1,1 +1,3 @@
 # RepasoRecu
+Jose Vicente
+Alumno
